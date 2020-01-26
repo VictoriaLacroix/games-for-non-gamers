@@ -8,6 +8,7 @@ those who aren't familiar with gaming and who are interested in trying it out.
 - [1. Rationale](#rationale)
 - [2. Games For Absolute Beginners](#games-for-absolute-beginners)
 	- [2.1 Dragon Quest](#dragon-quest)
+	- [2.2 Minecraft](#minecraft)
 - [3. Authors](#authors)
 - [4. References](#references)
 
@@ -65,6 +66,52 @@ Much of the same can be said of Dragon Quests' sequels, though each of them are
 quite larger and they all introduce new mechanics to the battling system. Dragon
 Quest II introduces multiple heros in one party at any given time, and Dragon
 Quest III allows you to create your own band of adventurers.
+
+### Minecraft
+
+Minecraft - the magnum opus of Sweden's own Mojang, now a flagship game for Microsoft.
+Many have described it as a "children's game" however it is anything but. Minecraft
+provides the player with an infinitely unique experience every time, and is highly
+adaptable to many different play styles. Novice gamers can set their difficulty to
+Peaceful, and wander around a vast, friendly world devoid of monsters. Veteran players
+can create a new Hardcore world and battle the elements - and a large variety of
+enemies - to work towards their final goal. If you want your gameplay experience to be
+anywhere between, that's your prerogative.
+
+When players create a new  world, the game coaches you through the basics in a very
+non-intrusive way. Movement, inventory access, and resource gathering are all
+introduced to the player in a way that doesn't take away from the wonder of the game.
+Furthermore, with the introduction of the Recipe Book from the World of Color update,
+the player is never left confused as to how to craft the game's over 350 different items.
+
+Minecraft's most impressive feature, however, is the number of possible different worlds
+that can be created. World generation is based on a randomly generated number. This results
+in a possible 2<sup>64</sup> possible worlds (that's over eighteen quintillion different
+worlds!), which means the player's experience will be different every time.
+
+There are two versions of Minecraft you can buy - Java Edition and Bedrock Edition. Java
+Edition is exclusive to PCs, running Windows, macOS, or Linux. Bedrock Edition is available
+for Windows, Android, iOS, Xbox One, PlayStation 4, and Nintendo Switch - and cross-platform
+play is possible between all of them! Cross-platform means that a player on an Xbox, and a
+player on a Playstation can play together, meaning you can enjoy Minecraft with friends no
+matter what console they play on!
+
+With Minecraft, there's enough to explore to last a lifetime, and anybody - from the youngest
+child to the oldest grandparent - can have an enjoyable experience that'll never be the same
+thing twice.
+
+Minecraft is available on the following platforms:
+
+#### Java Edition
+- Windows, macOS, and Linux ([minecraft.net](https://www.minecraft.net/en-us/get-minecraft))
+
+#### Bedrock Edition
+- Windows 10 ([Microsoft Store](https://www.microsoft.com/en-us/p/minecraft-for-windows-10/9nblggh2jhxj?activetab=pivot:overviewtab))
+- Android ([Google Play](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe))
+- iOS ([App Store](https://apps.apple.com/ca/app/minecraft/id479516143))
+- Xbox One ([Microsoft Store](https://www.microsoft.com/en-ca/p/minecraft/9NBLGGH537BL?activetab=pivot:overviewtab))
+- PlayStation 4 ([PlayStation Store](https://store.playstation.com/en-ca/product/UP4433-CUSA00744_00-STARTERCOLLECTPK?smcid=pdc%3Aca-en%3Aweb-pdc-games-minecraft-ps4%3Awaystobuy_398155673-Buy%20Download%3Anull%3A))
+- Nintendo Switch ([Nintendo eShop](https://www.nintendo.com/games/detail/minecraft-switch/))
 
 ## Authors
 
