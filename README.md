@@ -45,7 +45,7 @@ straightforward. The world is large enough for you to often discover interesting
 locales, but not so large that you always get lost. Battle mechanics have only a
 small amount of variables at play at any given time.
 
-Most importantly however, is that the game's controls are easy to understand and
+More importantly however, is that the game's controls are easy to understand and
 allow you time to make your choices. There are no scenarios where a player must
 rush to make a choice. For instance, if you find yourself in a dark cave,
 resources dwindling, face-to-face with a powerful creature, you can take your
