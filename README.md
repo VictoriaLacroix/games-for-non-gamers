@@ -12,6 +12,7 @@ NOTE: This list is a work-in-progress.
 - [2. Games For Absolute Beginners](#games-for-absolute-beginners)
 	- [2.1 Dragon Quest](#dragon-quest)
 	- [2.2 Minecraft](#minecraft)
+	- [2.3 Mario & Luigi: Superstar Saga](#wip)
 - [3. Authors](#authors)
 - [4. References](#references)
 
@@ -129,6 +130,18 @@ Minecraft is available on the following platforms:
 - Xbox One ([Microsoft Store](https://www.microsoft.com/en-ca/p/minecraft/9NBLGGH537BL?activetab=pivot:overviewtab))
 - PlayStation 4 ([PlayStation Store](https://store.playstation.com/en-ca/product/UP4433-CUSA00744_00-STARTERCOLLECTPK?smcid=pdc%3Aca-en%3Aweb-pdc-games-minecraft-ps4%3Awaystobuy_398155673-Buy%20Download%3Anull%3A))
 - Nintendo Switch ([Nintendo eShop](https://www.nintendo.com/games/detail/minecraft-switch/))
+
+### Mario & Luigi: Superstar Saga
+
+Originally released for the Game Boy Advance, Mario & Luigi: Superstar Saga expands on the turn-based RPG mario games introduced
+in the 1996 SNES game Super Mario RPG. Superstar Saga was so well-recieved by Nintendo fans that they remastered it for the 3DS. Tasked with reclaiming Princess Peach's voice from the Beanbean Kingdom, an all-new location to explore. Featuring both fan-favourites and never-before-seen characters, Superstar Saga is a game that will capture your attention for hours.
+
+The 3DS remaster of Superstar Saga features a new game - Minion Quest: The Search for Bowser (Bowser's Minions), where you take control of Captain Goomba and guide him though the Beanbean Kingdom to recover Bowser. The story runs concurrently to the Superstar Saga story, and allows the player to explore what happened to Bowser while Mario and Luigi were searching for Peach's voice.
+
+Superstar Saga is available on the Nintendo eShop, with remastered version appearing on the 3DS, and the Game Boy Advance Virtual Console port appearing on the Wii U:
+
+- 3DS ([Nintendo eShop](https://www.nintendo.com/games/detail/mario-luigi-superstar-saga-bowsers-minions-3ds/))
+- Wii U ([Nintendo eShop](https://www.nintendo.com/games/detail/mario-luigi-superstar-saga-wii-u/))
 
 ## Authors
 
