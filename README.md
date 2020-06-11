@@ -12,7 +12,7 @@ NOTE: This list is a work-in-progress.
 - [2. Games For Absolute Beginners](#games-for-absolute-beginners)
 	- [2.1 Dragon Quest](#dragon-quest)
 	- [2.2 Minecraft](#minecraft)
-	- [2.3 Mario & Luigi: Superstar Saga](#mario-&-luigi:-superstar-saga)
+	- [2.3 Mario & Luigi: Superstar Saga](#mario-luigi-superstar-saga)
 - [3. Authors](#authors)
 - [4. References](#references)
 
